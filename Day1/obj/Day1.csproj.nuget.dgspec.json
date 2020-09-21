@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah\\source\\repos\\Day1\\Day1\\Day1.csproj": {}
+    "C:\\Users\\Abdullah\\source\\repos\\Day1\\ITI_Taskes\\Day1\\Day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah\\source\\repos\\Day1\\Day1\\Day1.csproj": {
+    "C:\\Users\\Abdullah\\source\\repos\\Day1\\ITI_Taskes\\Day1\\Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah\\source\\repos\\Day1\\Day1\\Day1.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\source\\repos\\Day1\\ITI_Taskes\\Day1\\Day1.csproj",
         "projectName": "Day1",
-        "projectPath": "C:\\Users\\Abdullah\\source\\repos\\Day1\\Day1\\Day1.csproj",
+        "projectPath": "C:\\Users\\Abdullah\\source\\repos\\Day1\\ITI_Taskes\\Day1\\Day1.csproj",
         "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah\\source\\repos\\Day1\\Day1\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah\\source\\repos\\Day1\\ITI_Taskes\\Day1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
