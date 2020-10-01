@@ -1,0 +1,13 @@
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\bin\Debug\netcoreapp3.1\Linq1.exe
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\bin\Debug\netcoreapp3.1\Linq1.deps.json
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\bin\Debug\netcoreapp3.1\Linq1.runtimeconfig.json
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\bin\Debug\netcoreapp3.1\Linq1.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\bin\Debug\netcoreapp3.1\Linq1.dll
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\bin\Debug\netcoreapp3.1\Linq1.pdb
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.dll
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.pdb
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.genruntimeconfig.cache
+C:\Users\Abdullah\source\repos\Day1\ITI_Taskes\Linq1\obj\Debug\netcoreapp3.1\Linq1.csprojAssemblyReference.cache
