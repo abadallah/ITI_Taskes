@@ -1,0 +1,12 @@
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\Linq2.exe.config
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\Linq2.exe
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\Linq2.pdb
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\source\repos\Linq2\Linq2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah\source\repos\Linq2\Linq2\obj\Debug\Linq2.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\Linq2\Linq2\obj\Debug\Linq2.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Linq2\Linq2\obj\Debug\Linq2.csproj.CopyComplete
+C:\Users\Abdullah\source\repos\Linq2\Linq2\obj\Debug\Linq2.exe
+C:\Users\Abdullah\source\repos\Linq2\Linq2\obj\Debug\Linq2.pdb
